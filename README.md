@@ -6,3 +6,5 @@
 #### Location: Barcelona, Spain
 #### Reach me at: igardiet@gmail.com
 #### Hobbies: Reader, jiujiteiro, runner, guitarrist, technology, music, synthesizers, sound design, electronics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igardiet)](https://github.com/anuraghazra/github-readme-stats)
