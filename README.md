@@ -10,7 +10,10 @@
 ## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igardiet&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-## Top languages
+## 🔥 Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=igardiet&theme=merko)](https://git.io/streak-stats)
+
+## ⭐ Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igardiet&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
