@@ -7,8 +7,12 @@
 #### Reach me at: igardiet@gmail.com
 #### Hobbies: Reader, jiujiteiro, runner, guitarrist, technology, music, synthesizers, sound design, electronics
 
-## Stats
+## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igardiet&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igardiet&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igardiet&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
