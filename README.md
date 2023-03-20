@@ -1,4 +1,4 @@
-# Hi there! i'm Iñaki
+# Hi there!
 
 ### I’m currently studying web software development at Assembler Institute of Technology
 ### I’m currently learning JavaScript and MERN stack
