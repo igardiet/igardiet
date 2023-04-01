@@ -17,5 +17,3 @@
 
 ## ⭐ Top languages
 [![Top Langs](https://github-readme-stats-igardiet.vercel.app/api/top-langs/?username=igardiet&layout=compact&theme=merko)](https://github.com/igardiet/github-readme-stats)
-
-Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
