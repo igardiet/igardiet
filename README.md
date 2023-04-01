@@ -9,11 +9,11 @@
 
 </br>
 
+## ⭐ Top languages
+[![Top Langs](https://github-readme-stats-igardiet.vercel.app/api/top-langs/?username=igardiet&layout=compact&theme=merko)](https://github.com/igardiet/github-readme-stats)
+
 ## 📊 Stats
 [![igardiet's GitHub stats](https://github-readme-stats-igardiet.vercel.app/api?username=igardiet&show_icons=true&theme=merko)](https://github.com/igardiet/github-readme-stats)
 
 ## 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=igardiet&theme=merko)](https://git.io/streak-stats)
-
-## ⭐ Top languages
-[![Top Langs](https://github-readme-stats-igardiet.vercel.app/api/top-langs/?username=igardiet&layout=compact&theme=merko)](https://github.com/igardiet/github-readme-stats)
