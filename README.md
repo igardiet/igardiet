@@ -4,7 +4,7 @@
 ### I’m currently learning JavaScript and MERN stack
 ### Interests: C, JavaScript, nodejs, Solidity, Cobol, PHP, SQL, blockchain technology, OS development, backend, computer science, hardware, linux kernel, software development, cybersecurity, network computer systems administration, relational and non relational databases
 #### Location: Barcelona, Spain
-#### Reach me at: igardiet@gmail.com
+#### Reach me at: igardiet@gmail.com and https://www.linkedin.com/in/igardiet/
 #### Hobbies: Reader, jiujiteiro, runner, guitarrist, technology, music, movies, synthesizers, sound design, electronics
 
 </br>
