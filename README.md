@@ -1,4 +1,4 @@
-# Iñaki
+# Iñaki García
 
 ## I'm studying web software development at [Assembler Institute of Technology](https://assemblerinstitute.com/cursos/master-in-software-development-remoto/?utm_medium=paidsearch&utm_source=google.com&utm_campaign=branding&gclid=CjwKCAjwitShBhA6EiwAq3RqA18KJqLmrYBZ6Kw7MR-QsqKO9PQvNayhbkixGWNQMO6qH2ZHUopYIxoCTxAQAvD_BwE)
 ## Currently focused on JavaScript and the MERN stack
