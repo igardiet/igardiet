@@ -4,9 +4,11 @@
 ## Currently focused on JavaScript and the MERN stack
 ### Interests: C, JavaScript, nodejs, Solidity, Cobol, PHP, SQL, Python, blockchain technology, OS development, backend, computer science, hardware, Linux system administration, software development, cybersecurity, network computer systems administration, relational and non relational databases
 #### Location: Barcelona, Spain
-#### Reach me at my [Email](igardiet@gmail.com) and/or my [Linkedin](https://www.linkedin.com/in/igardiet/) profile
+#### Reach me at my igardiet@gmail.com and/or my [Linkedin](https://www.linkedin.com/in/igardiet/) profile
 #### Hobbies: Reader, jiujiteiro, runner, guitarrist, technology, music, movies, synthesizers, sound design, electronics
 
+</br>
+[![My Skills](https://skillicons.dev/icons?i=js,css,wasm)](https://skillicons.dev)]
 </br>
 
 ## ⭐ Top languages
