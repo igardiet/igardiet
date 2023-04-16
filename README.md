@@ -8,7 +8,7 @@
 #### Hobbies: Reader, jiujiteiro, runner, guitarrist, technology, music, movies, synthesizers, sound design, electronics
 
 </br>
-[![My Skills](https://skillicons.dev/icons?i=js,css,wasm)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=js,css,wasm)](https://skillicons.dev)
 </br>
 
 ## ⭐ Top languages
