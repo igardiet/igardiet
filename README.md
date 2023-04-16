@@ -8,8 +8,6 @@
 #### Hobbies: Reader, jiujiteiro, runner, guitarrist, technology, music, movies, synthesizers, sound design, electronics
 
 </br>
-[![My Skills](https://skillicons.dev/icons?i=js,css,wasm)](https://skillicons.dev)
-</br>
 
 ## ⭐ Top languages
 [![Top Langs](https://github-readme-stats-igardiet.vercel.app/api/top-langs/?username=igardiet&layout=compact&theme=merko)](https://github.com/igardiet/github-readme-stats)
