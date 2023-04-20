@@ -1,4 +1,4 @@
-# Iñaki García
+# 🚀 Iñaki García
 
 ## I'm studying web software development at [Assembler Institute of Technology](https://assemblerinstitute.com/?utm_medium=paidsearch&utm_source=google.com&utm_campaign=branding&gclid=CjwKCAjwitShBhA6EiwAq3RqA18KJqLmrYBZ6Kw7MR-QsqKO9PQvNayhbkixGWNQMO6qH2ZHUopYIxoCTxAQAvD_BwE)
 ## Currently focused on JavaScript and the MERN stack
@@ -8,6 +8,8 @@
 #### Hobbies: Reader, jiujiteiro, runner, guitarrist, technology, music, movies, synthesizers, sound design, electronics
 
 </br>
+
+## 🛠 Skills
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="css3"/>  
