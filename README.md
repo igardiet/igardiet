@@ -4,7 +4,7 @@
 ## Currently focused on JavaScript and the MERN stack
 ### Interests: C, JavaScript, nodejs, Solidity, Cobol, PHP, SQL, Python, blockchain technology, OS development, backend, DevOps, computer science, hardware, Linux system administration, software development, cybersecurity, network computer systems administration, relational and non relational databases
 #### Location: Barcelona, Spain
-#### Reach me at igardiet@gmail.com and/or my <a href="https://www.linkedin.com/in/igardiet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igardiet/" height="30" width="40" /></a> profile
+#### Reach me at igardiet@gmail.com, my <a href="https://discord.gg/IñakiGarcía#9123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="IñakiGarcía#9123" height="30" width="40" /></a> and/or my <a href="https://www.linkedin.com/in/igardiet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igardiet linkedin" height="30" width="40" /></a> profile
 #### Hobbies: Reader, jiujiteiro, runner, guitarrist, technology, music, movies, synthesizers, sound design, electronics
 
 </br>
