@@ -9,7 +9,7 @@
 
 </br>
 
-## 🛠 Skills
+<h2 align="center">🛠 Skills</h2>
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="css3"/>  
@@ -32,11 +32,32 @@
 </p>
 </br>
 
-## ⭐ Top languages
+<h2 align="center">⭐ Top languages</h2>
+<div align="center">
+
 [![Top Langs](https://github-readme-stats-igardiet.vercel.app/api/top-langs/?username=igardiet&layout=compact&theme=merko)](https://github.com/igardiet/github-readme-stats)
 
-## 📊 Stats
+</div>
+
+<h2 align="center">📊 Stats</h2>
+<div align="center">
+
 [![igardiet's GitHub stats](https://github-readme-stats-igardiet.vercel.app/api?username=igardiet&show_icons=true&theme=merko)](https://github.com/igardiet/github-readme-stats)
 
-## 🔥 Streak
+</div>
+
+<h2 align="center">🔥 Streak</h2>
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=igardiet&theme=merko)](https://git.io/streak-stats)
+
+</div>
+
+</br>
+
+<h4 align="center">Profile visits</h4>
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/igardiet/count.svg)
+  
+</div>
