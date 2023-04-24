@@ -53,7 +53,7 @@
 <h2 align="center">🔥 Streak</h2>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=igardiet&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=igardiet&theme=synthwave)](https://git.io/streak-stats)
 
 </div>
 
