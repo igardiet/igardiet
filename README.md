@@ -11,7 +11,7 @@
 
 </br>
 
-<h2 align="center">🛠 Skills</h2>
+<h2 align="center">🛠 Technologies</h2>
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="css3"/>  
