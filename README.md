@@ -34,8 +34,6 @@
 </p>
 </br>
 
-<img src="https://user-images.githubusercontent.com/115088134/233426519-a6db5032-c1dd-4f13-afa1-adb87bcf0460.gif" height="250" width="1280">
-
 <h2 align="center">⭐ Top languages</h2>
 <div align="center">
 
@@ -59,7 +57,7 @@
 
 </br>
 
-<img src="https://user-images.githubusercontent.com/115088134/233428438-a0021203-b5dd-4359-8db1-7f23ff3dbd89.gif" height="250" width="1280">
+<img src="https://user-images.githubusercontent.com/115088134/233426519-a6db5032-c1dd-4f13-afa1-adb87bcf0460.gif" height="250" width="1280">
 
 <h4 align="center">Profile visits</h4>
 <div align="center">
@@ -67,4 +65,3 @@
   ![Visitor Count](https://profile-counter.glitch.me/igardiet/count.svg)
   
 </div>
-<img src="https://user-images.githubusercontent.com/115088134/233432119-5bf1510b-9347-4308-963c-5c9f52d2f1c1.gif" height="5" width="1280">
