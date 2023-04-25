@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/115088134/233422824-92b804b0-ab3d-42f4-993d-76024afe0439.gif" height="250" width="1280">
 
-## I'm studying web software development at [Assembler Institute of Technology](https://assemblerinstitute.com/?utm_medium=paidsearch&utm_source=google.com&utm_campaign=branding&gclid=CjwKCAjwitShBhA6EiwAq3RqA18KJqLmrYBZ6Kw7MR-QsqKO9PQvNayhbkixGWNQMO6qH2ZHUopYIxoCTxAQAvD_BwE)
+## I'm studying web software development at Assembler Institute of Technology
 ## Currently focused on JavaScript and the MERN stack
 ### Interests: C, JavaScript, nodejs, Solidity, Cobol, PHP, SQL, Python, blockchain technology, OS development, backend, DevOps, computer science, hardware, Linux system administration, software development, cybersecurity, network computer systems administration, relational and non relational databases
 #### Location: Barcelona, Spain
