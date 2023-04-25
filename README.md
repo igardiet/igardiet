@@ -1,6 +1,6 @@
-# <img src="https://user-images.githubusercontent.com/115088134/233428959-c5c1f2f6-8756-46c9-9366-a514006aa0a9.gif" height="30" width="30"> Iñaki García
+# <img src="https://user-images.githubusercontent.com/115088134/234140681-1dd3a507-0575-4560-9820-aa88e0dc6333.gif" height="30" width="30"> Iñaki García
 
-<img src="https://user-images.githubusercontent.com/115088134/234139374-0562d00e-3ea0-4457-af6b-1330f6c42d21.gif" height="150" width="1280">
+<img src="https://user-images.githubusercontent.com/115088134/233422824-92b804b0-ab3d-42f4-993d-76024afe0439.gif" height="250" width="1280">
 
 ## I'm studying web software development at [Assembler Institute of Technology](https://assemblerinstitute.com/?utm_medium=paidsearch&utm_source=google.com&utm_campaign=branding&gclid=CjwKCAjwitShBhA6EiwAq3RqA18KJqLmrYBZ6Kw7MR-QsqKO9PQvNayhbkixGWNQMO6qH2ZHUopYIxoCTxAQAvD_BwE)
 ## Currently focused on JavaScript and the MERN stack
@@ -10,8 +10,6 @@
 #### Hobbies: Reader, jiujiteiro, runner, guitarrist, technology, music, movies, synthesizers, sound design, electronics
 
 </br>
-
-<img src="https://user-images.githubusercontent.com/115088134/233422824-92b804b0-ab3d-42f4-993d-76024afe0439.gif" height="250" width="1280">
 
 <h2 align="center">🛠 Technologies</h2>
 <p align="center">
