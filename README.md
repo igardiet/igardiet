@@ -1,4 +1,6 @@
-# <img src="https://user-images.githubusercontent.com/115088134/234140681-1dd3a507-0575-4560-9820-aa88e0dc6333.gif" height="30" width="30"> Iñaki García
+Iñaki García
+
+<img src="https://user-images.githubusercontent.com/115088134/233422824-92b804b0-ab3d-42f4-993d-76024afe0439.gif" height="250" width="1280">
 
 ## Studying web software development at Assembler Institute of Technology
 ## Currently focused on JavaScript and the MERN stack
@@ -54,8 +56,6 @@
 </div>
 
 </br>
-
-<img src="https://user-images.githubusercontent.com/115088134/233422824-92b804b0-ab3d-42f4-993d-76024afe0439.gif" height="250" width="1280">
 
 <h4 align="center">Profile visits</h4>
 <div align="center">
