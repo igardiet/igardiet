@@ -44,7 +44,7 @@
 <h2 align="center">📊 Stats</h2>
 <div align="center">
 
-[![igardiet's GitHub stats](https://github-readme-stats-igardiet.vercel.app/api?username=igardiet&show_icons=true&theme=merko)](https://github.com/igardiet/github-readme-stats)
+[![igardiet's GitHub stats](https://github-readme-stats-igardiet.vercel.app/api?username=igardiet&show_icons=true&theme=synthwave)](https://github.com/igardiet/github-readme-stats)
 
 </div>
 
