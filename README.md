@@ -42,14 +42,14 @@
 <h2 align="center">📊 Stats</h2>
 <div align="center">
 
-[![igardiet's GitHub stats](https://github-readme-stats-igardiet.vercel.app/api?username=igardiet&show_icons=true&theme=synthwave)](https://github.com/igardiet/github-readme-stats)
+[![igardiet's GitHub stats](https://github-readme-stats-igardiet.vercel.app/api?username=igardiet&show_icons=true&theme=merko)](https://github.com/igardiet/github-readme-stats)
 
 </div>
 
 <h2 align="center">🔥 Streak</h2>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=igardiet&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=igardiet&theme=merko)](https://git.io/streak-stats)
 
 </div>
 
