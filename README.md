@@ -3,9 +3,9 @@
 ## Studying Web Software Development at Assembler Institute of Technology
 ## Currently focused on JavaScript and the MERN stack
 ### Interests:
-C, JavaScript, nodejs, Solidity, Cobol, PHP, SQL, Python, blockchain technology, OS development, backend, DevOps, computer science, hardware, Linux system administration, software development, cybersecurity, network computer systems administration, relational and non relational databases
-### Location: Barcelona, Spain
-### Hobbies: Reader, jiujiteiro, runner, guitarrist, technology, music, movies, synthesizers, sound design, electronics
+C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, blockchain technology, OS development, backend, DevOps, computer science, hardware, Linux system administration, software development, cybersecurity, network computer systems administration, relational and non relational databases
+### Location: Barcelona
+### Hobbies: Jiujiteiro, runner, guitarrist, technology, music, synthesizers, sound design, electronics
 ### Connect with me:
 #### igardiet@gmail.com
 <a href="https://www.linkedin.com/in/igardiet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igardiet linkedin" height="30" width="40" /></a>
