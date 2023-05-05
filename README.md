@@ -1,9 +1,9 @@
 # ⭑ Iñaki García ⭑
 
-## Studying Web Software Development at Assembler Institute of Technology
+## Studying Web Software Development
 ## Currently focused on JavaScript and the MERN stack
 ### Interests:
-C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, blockchain technology, OS development, backend, DevOps, computer science, hardware, Linux system administration, software development, cybersecurity, network computer systems administration, relational and non relational databases
+C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, Blockchain Software, OS development, Backend Software, DevOps, computer science, Hardware, Linux system administration, Software Development, Cybersecurity, Network Computer Systems Administration
 ### Location: Barcelona
 ### Hobbies: Jiujiteiro, runner, guitarrist, technology, music, synthesizers, sound design, electronics
 ### Connect with me:
