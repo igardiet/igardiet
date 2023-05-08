@@ -1,5 +1,7 @@
 # ⭑ Iñaki García ⭑
 
+<img src='https://user-images.githubusercontent.com/115088134/236907016-6c36d075-f805-40d1-a10e-b34f20f8c0ae.gif' height=200 width='1280'>
+
 ## Studying Web Software Development
 ## Currently focused on JavaScript and the MERN stack
 ### Interests:
