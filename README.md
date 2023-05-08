@@ -58,6 +58,8 @@ C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C#, Java, Blockchain S
 
 </br>
 
+<img src='https://user-images.githubusercontent.com/115088134/236908432-5e7370b3-48fe-4422-bb56-f195d1fd220d.gif' height=200 width='1280'>
+
 <h4 align="center">Profile visits</h4>
 <div align="center">
   
