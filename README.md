@@ -12,8 +12,6 @@ C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C#, Java, Blockchain S
 #### igardiet@gmail.com
 <a href="https://www.linkedin.com/in/igardiet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igardiet linkedin" height="30" width="40" /></a>
 
-</br>
-
 <h2 align="center">🛠 Technologies</h2>
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
