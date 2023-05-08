@@ -7,7 +7,7 @@
 ### Interests:
 C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C#, Java, Blockchain Software, OS development, Backend Software, DevOps, Computer Science, Hardware, Linux system administration, Software Development, Cybersecurity, Network Computer Systems Administration
 ### Location: Barcelona
-### Hobbies: Jiujiteiro, runner, guitarrist, technology, music, synthesizers, sound design, electronics
+### Hobbies: Brazilian Jiu-Jitsu, runner, guitarrist, technology, music, synthesizers, sound design, electronics
 ### Connect with me:
 #### igardiet@gmail.com
 <a href="https://www.linkedin.com/in/igardiet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igardiet linkedin" height="30" width="40" /></a>
