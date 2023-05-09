@@ -5,7 +5,7 @@
 ## Studying Web Software Development
 ## Currently focused on JavaScript and the MERN stack
 ### Interests:
-C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C#, Java, Blockchain Software, OS development, Backend Software, DevOps, Computer Science, Hardware, Linux system administration, Software Development, Cybersecurity, Network Computer Systems Administration
+C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C++, Assembly, Ruby, C#, Java, Blockchain Software, OS development, Backend Software, DevOps, Computer Science, Hardware, Linux system administration, Software Development, Cybersecurity, Network Computer Systems Administration
 ### Location: Barcelona
 ### Hobbies: Brazilian Jiu-Jitsu, Jogging, Guitarrist, Technology, Music, Synthesizers, Sound Design, Electronics, Anime
 ### Connect with me:
