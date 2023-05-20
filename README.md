@@ -1,11 +1,13 @@
 # ⭑ Iñaki García ⭑
 
+
 <img src='https://user-images.githubusercontent.com/115088134/236907016-6c36d075-f805-40d1-a10e-b34f20f8c0ae.gif' height=200 width='1280'>
+
 
 ## Studying Web Software Development
 ## Currently learning JavaScript and the MERN stack
 ### Interests:
-C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C++, Assembly, Ruby, C#, Java, Blockchain Software, OS development, Backend Software, DevOps, Computer Science, Hardware, Linux System Administration, Software Development, Cybersecurity, Network Computer Systems Administration
+C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C++, Assembly, Ruby, C#, Java, Perl, Bash, Blockchain Software, Web3, OS development, Backend Software, DevOps, Computer Science, Hardware, Linux System Administration, Software Development, Cybersecurity, Network Computer Systems Administration
 ### Hobbies:
 Brazilian Jiu-Jitsu, Jogging, Guitarrist, Technology, Music, Synthesizers, Sound Design, Electronics, Anime
 ### Connect with me:
