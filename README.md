@@ -1,8 +1,6 @@
 # ⭑ Iñaki García ⭑
 
-
 <img src='https://user-images.githubusercontent.com/115088134/236907016-6c36d075-f805-40d1-a10e-b34f20f8c0ae.gif' height=200 width='1280'>
-
 
 ## Studying Web Software Development
 ## Currently learning JavaScript and the MERN stack
@@ -11,7 +9,7 @@ C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C++, Assembly, Ruby, C
 ### Hobbies:
 Brazilian Jiu-Jitsu, Jogging, Guitarrist, Technology, Music, Synthesizers, Sound Design, Electronics, Anime
 ### Connect with me:
-<a href="https://www.linkedin.com/in/igardiet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igardiet linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/igardiet/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igardiet linkedin" height="30" width="40" /></a>
 
 <h2 align="center">🛠 Technologies</h2>
 <p align="center">
