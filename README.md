@@ -1,7 +1,5 @@
 # ⭑ Iñaki García ⭑
 
-<img src='https://user-images.githubusercontent.com/115088134/236907016-6c36d075-f805-40d1-a10e-b34f20f8c0ae.gif' height=200 width='1280'>
-
 ## Studying Web Software Development
 ## Currently learning JavaScript and the MERN stack
 ### Interests:
@@ -56,8 +54,6 @@ Brazilian Jiu-Jitsu, Jogging, Guitarrist, Technology, Music, Synthesizers, Sound
 </div>
 
 </br>
-
-<img src='https://user-images.githubusercontent.com/115088134/236908432-5e7370b3-48fe-4422-bb56-f195d1fd220d.gif' height=200 width='1280'>
 
 <h4 align="center">Profile visits</h4>
 <div align="center">
