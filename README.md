@@ -1,11 +1,11 @@
 # ⭑ Iñaki García ⭑
 
 ## Studying Software Development
-## Currently learning JavaScript and the MERN stack
+## Currently learning C, JavaScript and the MERN stack
 ### Interests:
 C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C++, Assembly, Ruby, C#, Java, Perl, Bash, Blockchain Software, Web3, OS development, Backend Software, DevOps, Computer Science, Hardware, Linux System Administration, Software Development, Cybersecurity, Network Computer Systems Administration
 ### Hobbies:
-Brazilian Jiu-Jitsu, Jogging, Guitarrist, Technology, Music, Synthesizers, Sound Design, Electronics, Anime
+Brazilian Jiu-Jitsu, Run, Guitars, Books, Technology, Music, Synthesizers, Sound Design, Electronics, Anime
 ### Connect with me:
 <a href="https://www.linkedin.com/in/igardiet/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igardiet linkedin" height="30" width="40" /></a>
 
