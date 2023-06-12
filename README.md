@@ -1,9 +1,9 @@
 # ⭑ Iñaki García ⭑
 
-## Studying Software Development
+## Software Developer
 ## Currently learning C, JavaScript and the MERN stack
 ### Interests:
-C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C++, Assembly, Ruby, C#, Java, Perl, Bash, Blockchain Software, Web3, OS development, Backend Software, DevOps, Computer Science, Hardware, Linux System Administration, Software Development, Cybersecurity, Network Computer Systems Administration
+C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C++, Assembly, Ruby, C#, Java, Bash, Blockchain Software, Web3, OS development, Backend Software, DevOps, Computer Science, Hardware, Linux System Administration, Software Development, Cybersecurity, Network Computer Systems Administration
 ### Hobbies:
 Brazilian Jiu-Jitsu, Run, Guitars, Books, Technology, Music, Synthesizers, Sound Design, Electronics, Anime
 ### Connect with me:
