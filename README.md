@@ -1,7 +1,7 @@
 # ⭑ Iñaki García ⭑
 
 ## Software Developer
-## Studying C, JavaScript, Node, React, MongoDB
+## Studying and working with C, JavaScript, NodeJS, React, MongoDB
 ### Interests:
 C, JavaScript, Nodejs, Solidity, Cobol, PHP, SQL, Python, C++, Assembly, Ruby, C#, Java, Bash, Blockchain Software, Web3, OS development, Backend Software, DevOps, Computer Science, Hardware, Linux System Administration, Software Development, Cybersecurity, Network Computer Systems Administration
 ### Hobbies:
