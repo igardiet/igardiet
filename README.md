@@ -1,12 +1,14 @@
 # ⭑ Iñaki García ⭑
 
 ## Software Developer
-## Studying and working with JavaScript, Node, Express, MongoDB and C
-### Interests:
-C, JavaScript, Nodejs, TypeScript, Nest, Docker, Solidity, Cobol, PHP, SQL, Python, C++, Assembly, Ruby, C#, Java, Bash, Web Software, OS development, Backend Software, Blockchain Software, Web3, DevOps, Computer Science, Hardware, Linux System Administration, Software Development, Cybersecurity, Network Computer Systems Administration
-### Hobbies:
+### Studying and working with JavaScript, Node, Express, MongoDB and C
+#### Goals:
+JavaScript, Node, TypeScript, C/C++, Solidity, Python, Computer Informatics and Systems Engineering, Network Computer Systems Administration, Cross Platform Application Development, Web Applications Development
+##### Interests:
+Cobol, PHP, SQL, Assembly, Ruby, C#, Java, Bash, Web Software, OS development, Backend Software, AWS, Blockchain Software, Web3, DevOps, Computer Science, Hardware, Linux System Administration, Software Development, Cybersecurity
+###### Hobbies:
 Brazilian Jiu-Jitsu, Software, Run, Guitars, Books, Technology, Music, Synthesizers, Sound Design, Electronics, Anime
-### Connect with me:
+###### Connect with me:
 <a href="https://www.linkedin.com/in/igardiet/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igardiet linkedin" height="30" width="40" /></a>
 
 <h2 align="center">🛠 Technologies</h2>
