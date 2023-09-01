@@ -1,7 +1,7 @@
 # ⭑ Iñaki García ⭑
 
 ## Software Developer
-### Studying and working with JavaScript, Node and C
+### Studying and working with Node, JavaScript and Java
 #### Goals:
 JavaScript, Node, TypeScript, C/C++, Solidity, Python, Java, SQL, Computer Informatics and Systems Engineering, Network Computer Systems Administration, Cross Platform Application Development, Web Applications Development
 #### Interests:
@@ -14,6 +14,7 @@ Brazilian Jiu-Jitsu, Software, Run, Guitars, Books, Technology, Music, Synthesiz
 <h2 align="center">🛠 Technologies</h2>
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title ="javascript"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title ="java"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title ="c"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js" title="NodeJS"/>
