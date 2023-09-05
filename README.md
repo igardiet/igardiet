@@ -3,9 +3,9 @@
 ## Software Developer
 ### Studying and working with Node, JavaScript and Java
 #### Goals:
-JavaScript, Node, TypeScript, C/C++, Solidity, Python, Java, SQL, Computer Informatics and Systems Engineering, Network Computer Systems Administration, Cross Platform Application Development, Web Applications Development
+JavaScript, Node, TypeScript, C/C++, Solidity, Python, Java, SQL, Computer Informatics and Systems Engineering, Network Computer Systems Administration, Cross Platform Application Development, Web Applications Development, Cybersecurity
 #### Interests:
-Cobol, PHP, Assembly, Ruby, Rust, C#, Bash, Web Software, OS development, Backend Software, AWS, Blockchain Software, Web3, DevOps, Computer Science, Hardware, Linux System Administration, Software Development, Cybersecurity
+Cobol, PHP, Assembly, Ruby, Rust, C#, Bash, Web Software, OS development, Backend Software, AWS, Blockchain Software, Web3, DevOps, Computer Science, Hardware, Linux System Administration, Software Development
 ##### Hobbies:
 Brazilian Jiu-Jitsu, Software, Run, Guitars, Books, Technology, Music, Synthesizers, Sound Design, Electronics, Anime
 ###### Connect with me:
