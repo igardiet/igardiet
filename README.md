@@ -1,15 +1,11 @@
 # ⭑ Iñaki García ⭑
 
 ## Software Developer
-### Studying and working with Node, JavaScript and Java
+### Studying and working with Node, Solidity, Java and C
 #### Goals:
 JavaScript, Node, TypeScript, C/C++, Solidity, Python, Java, SQL, Computer Informatics and Systems Engineering, Network Computer Systems Administration, Cross Platform Application Development, Web Applications Development, Cybersecurity
 #### Interests:
 Cobol, PHP, Assembly, Ruby, Rust, C#, Bash, Web Software, OS development, Backend Software, AWS, Blockchain Software, Web3, DevOps, Computer Science, Hardware, Linux System Administration, Software Development
-##### Hobbies:
-Brazilian Jiu-Jitsu, Software, Run, Guitars, Books, Technology, Music, Synthesizers, Sound Design, Electronics, Anime
-###### Connect with me:
-<a href="https://www.linkedin.com/in/igardiet/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igardiet linkedin" height="30" width="40" /></a>
 
 <h2 align="center">🛠 Technologies</h2>
 <p align="center">
