@@ -54,7 +54,6 @@ Brazilian Jiu-Jitsu, Software, Run, Guitars, Books, Technology, Music, Synthesiz
 
 </br>
 
-<h4 align="center">Profile visits</h4>
 <div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/igardiet/count.svg)
