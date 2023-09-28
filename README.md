@@ -3,9 +3,9 @@
 ## Software Developer
 ### Studying and working with JavaScript, Node, React, TypeScript, Java, MongoDB, SQL
 #### Goals:
-JavaScript, Node, TypeScript, C/C++, Solidity, Python, Java, Computer Informatics and Systems Engineering, Network Computer Systems Administration, Cross Platform Application Development, Web Applications Development, Cybersecurity
+C/C++, Solidity, Python, Cross Platform Application Development, Software Engineering
 #### Interests:
-Cobol, PHP, Assembly, Ruby, Rust, C#, Bash, Web Software, OS development, Backend Software, AWS, Blockchain Software, Web3, DevOps, Computer Science, Hardware, Linux System Administration, Software Development
+Assembly, OS development, AWS, Blockchain Software, Web3, DevOps, Computer Science, Hardware, Linux System Administration, Web Applications Development, Cybersecurity, Network Computer Systems Administration
 
 <h2 align="center">🛠 Technologies</h2>
 <p align="center">
