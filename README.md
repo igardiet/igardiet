@@ -1,11 +1,12 @@
 # ⭑ Iñaki García ⭑
 
 ## Software Developer
-### Studying Web Development and working with JavaScript, Node, React, TypeScript, Java, MongoDB, SQL
+### Studying Web Development and Cross Platform Application Development
+### Working with JavaScript, Node, React, TypeScript, Java, MongoDB, SQL
 #### Goals:
-C/C++, Python, Cross Platform Application Development, Software Engineering, Web Development, Embedded Systems
+C/C++, Python, Software Engineering, Embedded Systems
 #### Interests:
-Assembly, OS development, AWS, Blockchain Software, Web3, Solidity, DevOps, Computer Science, Hardware, Linux System Administration, Web Applications Development, Cybersecurity, Network Computer Systems Administration, Linux Systems
+Assembly, OS development, AWS, Blockchain Software, Web3, Solidity, DevOps, Computer Science, Hardware, Linux System Administration, Cybersecurity, Network Computer Systems Administration
 
 <h2 align="center">🛠 Technologies</h2>
 <p align="center">
