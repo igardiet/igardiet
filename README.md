@@ -2,7 +2,7 @@
 
 ## Software Developer
 ### Studying Web Development and Cross Platform Application Development
-### Working with JavaScript, Node, React, TypeScript, Java, MongoDB, SQL
+### JavaScript, Node, React, TypeScript, Java, MongoDB, SQL
 #### Goals:
 C/C++, Python, Software Engineering, Embedded Systems
 #### Interests:
