@@ -9,7 +9,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="50" height="50" alt="C" title ="C"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="50" height="50" alt="PHP" title="PHP"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width="50" height="50" alt="MongoDB" title="MongoDB"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50" height="50" alt="MySQL"  title="MySQL"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"  title="MySQL"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="50" height="50" alt="Jest" title ="Jest"/>
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" title="Postman"/>
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="TailwindCSS" title="TailwindCSS"/>
