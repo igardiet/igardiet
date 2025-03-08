@@ -2,15 +2,15 @@
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="50" alt="JavaScript" title ="JavaScript"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="50" height="50" alt="NodeJS" title="NodeJS"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="ReactJS" title="ReactJS"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50" height="50" alt="TypeScript" title ="TypeScript"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" width="50" height="50" alt="Solidity" title ="Solidity"/>
+   <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="ReactJS" title="ReactJS"/>-->
+   <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50" height="50" alt="TypeScript" title ="TypeScript"/>-->
+   <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" width="50" height="50" alt="Solidity" title ="Solidity"/>-->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="50" height="50" alt="Java" title ="Java"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="50" height="50" alt="C" title ="C"/>
+   <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="50" height="50" alt="C" title ="C"/>-->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="50" height="50" alt="PHP" title="PHP"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width="50" height="50" alt="MongoDB" title="MongoDB"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"  title="MySQL"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="50" height="50" alt="Jest" title ="Jest"/>
+   <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="50" height="50" alt="Jest" title ="Jest"/>-->
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" title="Postman"/>
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="TailwindCSS" title="TailwindCSS"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="NPM" title="NPM"/>
